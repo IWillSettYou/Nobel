@@ -1,0 +1,14 @@
+C:\code\Orai01\bin\Debug\net8.0\Orai01.exe
+C:\code\Orai01\bin\Debug\net8.0\Orai01.deps.json
+C:\code\Orai01\bin\Debug\net8.0\Orai01.runtimeconfig.json
+C:\code\Orai01\bin\Debug\net8.0\Orai01.dll
+C:\code\Orai01\bin\Debug\net8.0\Orai01.pdb
+C:\code\Orai01\obj\Debug\net8.0\Orai01.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Orai01\obj\Debug\net8.0\Orai01.AssemblyInfoInputs.cache
+C:\code\Orai01\obj\Debug\net8.0\Orai01.AssemblyInfo.cs
+C:\code\Orai01\obj\Debug\net8.0\Orai01.csproj.CoreCompileInputs.cache
+C:\code\Orai01\obj\Debug\net8.0\Orai01.dll
+C:\code\Orai01\obj\Debug\net8.0\refint\Orai01.dll
+C:\code\Orai01\obj\Debug\net8.0\Orai01.pdb
+C:\code\Orai01\obj\Debug\net8.0\Orai01.genruntimeconfig.cache
+C:\code\Orai01\obj\Debug\net8.0\ref\Orai01.dll
